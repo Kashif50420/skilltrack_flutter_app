@@ -1,16 +1,23 @@
-# skilltrack_flutter_app
+# SkillTrack – MAD Project
 
-A new Flutter project.
+## Description
+SkillTrack is a Flutter UI prototype with 4 interactive screens:
+- Login Screen
+- Home Screen
+- Program Listing Screen
+- Program Detail Screen
 
-## Getting Started
+This app is built as part of MAD Week 2 submission. It demonstrates:
+- Modern card-based UI
+- Interactive navigation between screens
+- Clean layout inspired by Whimsical prototype
 
-This project is a starting point for a Flutter application.
+## Screenshots
+![Login Screen](screenshots/login.png)
+![Home Screen](screenshots/home.png)
+![Program Listing Screen](screenshots/list.png)
+![Program Detail Screen](screenshots/detail.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## GitHub Repository
+You can view the complete code here:  
+[https://github.com/Kashif50420/skilltrack_flutter_app](https://github.com/Kashif50420/skilltrack_flutter_app)
