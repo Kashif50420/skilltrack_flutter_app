@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Course 101",
+    "description": "Intro to Basics",
+    "duration": "6 Weeks",
+    "skills": "Flutter, UI",
+    "overview": "This course covers basic concepts of Flutter development including widgets, state management, and basic UI design."
+  },
+  {
+    "id": 2,
+    "title": "Course 102",
+    "description": "Advanced Training",
+    "duration": "8 Weeks",
+    "skills": "Flutter, State Management",
+    "overview": "Advanced concepts and techniques for Flutter development including complex state management and API integration."
+  },
+  {
+    "id": 3,
+    "title": "Course 103",
+    "description": "Expert Skills",
+    "duration": "10 Weeks",
+    "skills": "Flutter, Performance",
+    "overview": "Master level skills development in Flutter including performance optimization, advanced animations, and architecture patterns."
+  }
+]
